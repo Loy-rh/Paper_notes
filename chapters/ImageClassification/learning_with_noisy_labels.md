@@ -1,5 +1,8 @@
 # Learning with Noisy Labels
 
+- [Selective-Supervised Contrastive Learning with Noisy Labels (CVPR2022)](#selective-supervised-contrastive-learning-with-noisy-labels-cvpr2022)
+- [How does Disagreement Help Generalization against Label Corruption?](#how-does-disagreement-help-generalization-against-label-corruption-icml2019)
+
 ### Selective-Supervised Contrastive Learning with Noisy Labels (CVPR2022)
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf)
