@@ -1,4 +1,4 @@
-# Research Papers on Conputer Vision
+# Research Papers on Computer Vision
 ---
 
 ## Table of Contents
