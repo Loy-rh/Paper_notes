@@ -56,11 +56,20 @@
 ### Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)
 
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/a19744e268754fb0148b017647355b7b-Paper.pdf)
-[[Code]]()
-[[bibtex]]()
+[[Code]](https://github.com/bhanML/Co-teaching)
+[[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2018-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels-Bibtex.bib)
 
 - summary
 - Keywords : 
+
+### How does Disagreement Help Generalization against Label Corruption? (ICML2019)
+
+[[Paper]](http://proceedings.mlr.press/v97/yu19b/yu19b.pdf)
+[[Code]](https://github.com/xingruiyu/coteaching_plus)
+[[bibtex]](https://proceedings.mlr.press/v97/yu19b.html)
+
+- summary
+- Keywords :
 
 ###  (CVPR2022)
 
