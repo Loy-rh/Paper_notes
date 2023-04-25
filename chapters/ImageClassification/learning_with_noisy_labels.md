@@ -1,7 +1,13 @@
 # Learning with Noisy Labels
 
 - [Selective-Supervised Contrastive Learning with Noisy Labels (CVPR2022)](#selective-supervised-contrastive-learning-with-noisy-labels-cvpr2022)
-- [How does Disagreement Help Generalization against Label Corruption?](#how-does-disagreement-help-generalization-against-label-corruption-icml2019)
+- [Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels (CVPR2022)](#scalable-penalized-regression-for-noise-detection-in-learning-with-noisy-labels-cvpr2022)
+- [PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction (CVPR2022)](#pnp-robust-learning-from-noisy-labels-by-probabilistic-noise-prediction-cvpr2022)
+- [DivideMix: Learning with Noisy Labels as Semi-supervised Learning (ICLR2020)](#dividemix-learning-with-noisy-labels-as-semi-supervised-learning-iclr2020)
+- [Early-Learning Regularization Prevents Memorization of Noisy Labels (NeurIPS2020)](#early-learning-regularization-prevents-memorization-of-noisy-labels-neurips2020)
+- [A Closer Look at Memorization in Deep Networks (ICML2017)](#a-closer-look-at-memorization-in-deep-networks-icml2017)
+- [Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)](#co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels-neurips2018)
+- [How does Disagreement Help Generalization against Label Corruption? (ICML2019)](#how-does-disagreement-help-generalization-against-label-corruption-icml2019)
 
 ### Selective-Supervised Contrastive Learning with Noisy Labels (CVPR2022)
 
