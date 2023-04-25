@@ -39,15 +39,23 @@
 ### Early-Learning Regularization Prevents Memorization of Noisy Labels (NeurIPS2020)
 
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/ea89621bee7c88b2c5be6681c8ef4906-Paper.pdf)
-[[Code]]()
-[[bibtex]]()
+[[Code]](https://github.com/shengliu66/ELR)
+[[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2020-early-learning-regularization-prevents-memorization-of-noisy-labels-Bibtex.bib)
 
 - summary
 - Keywords : 
 
-###  (CVPR2022)
+### A Closer Look at Memorization in Deep Networks (ICML2017)
 
-[[Paper]]()
+[[Paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
+[[bibtex]](https://proceedings.mlr.press/v70/arpit17a)
+
+- summary
+- Keywords : 
+
+### Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)
+
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2018/file/a19744e268754fb0148b017647355b7b-Paper.pdf)
 [[Code]]()
 [[bibtex]]()
 
