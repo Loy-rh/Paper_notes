@@ -7,6 +7,7 @@
 1. [Learning with Noisy Labels](https://github.com/Loy-rh/paper_notes/blob/main/chapters/ImageClassification/learning_with_noisy_labels.md)
 2. [Semi-supervised Learning](https://github.com/Loy-rh/paper_notes/blob/main/chapters/ImageClassification/semi-supervised_learning.md)
 3. [Deep Metric Learning](https://github.com/Loy-rh/paper_notes/blob/main/chapters/ImageClassification/deep_metric_learning.md)
+4. [Adversarial Training]()
 
 ### Semantic Segmentation
 1. [Learning with Noisy Labels]()
