@@ -19,8 +19,11 @@
 [[Code]](https://github.com/ShikunLi/Sel-CL)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.html)
 
-- summary
-- Keywords : 
+- summary  
+    ***
+    ここに論文の説明文を記入
+    ***
+- Keywords : `contrastive learning`,`SSL`
 
 ### Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels (CVPR2022)
 
