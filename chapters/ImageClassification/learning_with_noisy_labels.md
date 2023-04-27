@@ -24,7 +24,7 @@
     ***
     ここに論文の説明文を記入
     ***
-- Keywords : `contrastive learning`, `Semi-supervised learning`
+- Keywords : `contrastive learning`, `semi-supervised learning`
 
 ### Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels (CVPR2022)
 
