@@ -8,9 +8,9 @@
 4. [Learning With Neighbor Consistency for Noisy Labels (CVPR2022)](#learning-with-neighbor-consistency-for-noisy-labels-cvpr2022)
 5. [DivideMix: Learning with Noisy Labels as Semi-supervised Learning (ICLR2020)](#dividemix-learning-with-noisy-labels-as-semi-supervised-learning-iclr2020)
 6. [Early-Learning Regularization Prevents Memorization of Noisy Labels (NeurIPS2020)](#early-learning-regularization-prevents-memorization-of-noisy-labels-neurips2020)
-7. [A Closer Look at Memorization in Deep Networks (ICML2017)](#a-closer-look-at-memorization-in-deep-networks-icml2017)
+7. [How does Disagreement Help Generalization against Label Corruption? (ICML2019)](#how-does-disagreement-help-generalization-against-label-corruption-icml2019)
 8. [Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)](#co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels-neurips2018)
-9. [How does Disagreement Help Generalization against Label Corruption? (ICML2019)](#how-does-disagreement-help-generalization-against-label-corruption-icml2019)
+9. [A Closer Look at Memorization in Deep Networks (ICML2017)](#a-closer-look-at-memorization-in-deep-networks-icml2017)
 
 ---
 
@@ -95,18 +95,19 @@
     ***
     調査中
     ***
-- Keywords : 
+- Keywords :  
 
-### A Closer Look at Memorization in Deep Networks (ICML2017)
+### How does Disagreement Help Generalization against Label Corruption? (ICML2019)
 
-[[Paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
-[[bibtex]](https://proceedings.mlr.press/v70/arpit17a)
+[[Paper]](http://proceedings.mlr.press/v97/yu19b/yu19b.pdf)
+[[Code]](https://github.com/xingruiyu/coteaching_plus)
+[[bibtex]](https://proceedings.mlr.press/v97/yu19b.html)
 
 - summary
     ***
     調査中
     ***
-- Keywords : 
+- Keywords :
 
 ### Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)
 
@@ -120,11 +121,10 @@
     ***
 - Keywords : 
 
-### How does Disagreement Help Generalization against Label Corruption? (ICML2019)
+### A Closer Look at Memorization in Deep Networks (ICML2017)
 
-[[Paper]](http://proceedings.mlr.press/v97/yu19b/yu19b.pdf)
-[[Code]](https://github.com/xingruiyu/coteaching_plus)
-[[bibtex]](https://proceedings.mlr.press/v97/yu19b.html)
+[[Paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
+[[bibtex]](https://proceedings.mlr.press/v70/arpit17a)
 
 - summary
     ***
