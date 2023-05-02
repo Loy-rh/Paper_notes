@@ -14,6 +14,6 @@
 
 - summary  
     ***
-    調査中　ここを書き換えた
+    調査中
     ***
 - Keywords : `keyword`
