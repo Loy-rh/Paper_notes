@@ -52,6 +52,6 @@
 
 - summary  
     ***
-    ここに論文の説明文を記入
+    調査中
     ***
 - Keywords : `keyword`
