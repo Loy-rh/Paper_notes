@@ -16,9 +16,9 @@
 
 - summary  
     ***
-    ここに論文の説明文を記入
+    調査中
     ***
-- Keywords : `keyword
+- Keywords : `keyword`
 
 ### TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)
 
@@ -28,7 +28,7 @@
 
 - summary  
     ***
-    ここに論文の説明文を記入
+    調査中
     ***
 - Keywords : `keyword`
 
@@ -40,7 +40,7 @@
 
 - summary  
     ***
-    ここに論文の説明文を記入
+    調査中
     ***
 - Keywords : `keyword`
 
