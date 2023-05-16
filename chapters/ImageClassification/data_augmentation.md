@@ -4,7 +4,9 @@
 
 1. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
 2. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
-3. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
+3. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
+4. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
+5. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
 
 ---
 
@@ -44,6 +46,18 @@
     1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
     ***
 - Keywords : `Mixing Augmentation`
+
+### AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)
+
+[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.pdf)
+[[Code]](https://github.com/DeepVoltaire/AutoAugment)
+[[bibtex]](https://openaccess.thecvf.com/content_CVPR_2019/html/Cubuk_AutoAugment_Learning_Augmentation_Strategies_From_Data_CVPR_2019_paper.html)
+
+- summary  
+    ***
+    事前に定義された画像変換が与えられた場合に、最適な拡張方針の探索を自動化した手法。
+    ***
+- Keywords : `keyword`
 
 ### CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)
 
