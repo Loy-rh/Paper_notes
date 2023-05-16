@@ -30,9 +30,9 @@
 
 - summary  
     ***
-    調査中
+    TeacherネットワークとStudentネットワークを用意し、Teacherネットワークには識別可能であるが、Studentネットワークに対しては誤識別させるようなデータ拡張を探索し、訓練する教師ありデータ拡張手法。
     ***
-- Keywords : `Adversarial Training`
+- Keywords : `Adversarial Training` `Data Augmentation`
 
 ### SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)
 
@@ -57,7 +57,7 @@
     ***
     事前に定義された画像変換が与えられた場合に、最適な拡張方針の探索を自動化した手法。
     ***
-- Keywords : `keyword`
+- Keywords : `Data Augmentation`
 
 ### CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)
 
