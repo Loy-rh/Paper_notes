@@ -30,7 +30,7 @@
     ***
     調査中
     ***
-- Keywords : `keyword`
+- Keywords : `Adversarial Training`
 
 ### SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)
 
@@ -43,7 +43,7 @@
     [CutMix](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)の改良。
     1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
     ***
-- Keywords : `keyword`
+- Keywords : `Mixing Augmentation`
 
 ### CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)
 
@@ -56,7 +56,7 @@
     [mixup](#mixup-beyond-empirical-risk-minimization-iclr2018)とCutoutの組み合わせ。
     2つの画像とラベルのペアに対して一方の画像の識別に影響を大きい領域を矩形マスクで切り出し、もう一方の画像に貼り付ける混合データ増強手法。また、ラベルも同様に凸線形補間によるデータ増強を行う。
     ***
-- Keywords : `keyword`
+- Keywords : `Mixing Augmentation`
 
 ### mixup: Beyond Empirical Risk Minimization (ICLR2018)
 
@@ -68,4 +68,4 @@
     ***
     ベータ分布から得られた確率を重みとして、ランダムに選ばれたデータとラベルのペアに対して凸線形補間によるデータ増強を行い画像を結合する。
     ***
-- Keywords : `keyword`
+- Keywords : `Mixing Augmentation`
