@@ -36,11 +36,25 @@
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf)
 [[Code]](https://github.com/alldbi/SuperMix)
-[[bibtex]]()
+[[bibtex]](https://github.com/alldbi/SuperMix)
 
 - summary  
     ***
-    調査中
+    [CutMix](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)の改良。
+    1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
+    ***
+- Keywords : `keyword`
+
+### CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)
+
+[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf)
+[[Code]](https://github.com/clovaai/CutMix-PyTorch)
+[[bibtex]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.html)
+
+- summary  
+    ***
+    [mixup](#mixup-beyond-empirical-risk-minimization-iclr2018)とCutoutの組み合わせ。
+    2つの画像とラベルのペアに対して一方の画像の識別に影響を大きい領域を矩形マスクで切り出し、もう一方の画像に貼り付ける混合データ増強手法。また、ラベルも同様に凸線形補間によるデータ増強を行う。
     ***
 - Keywords : `keyword`
 
@@ -52,6 +66,6 @@
 
 - summary  
     ***
-    調査中
+    ベータ分布から得られた確率を重みとして、ランダムに選ばれたデータとラベルのペアに対して凸線形補間によるデータ増強を行い画像を結合する。
     ***
 - Keywords : `keyword`
