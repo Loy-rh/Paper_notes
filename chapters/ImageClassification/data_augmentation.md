@@ -56,7 +56,7 @@
 
 - summary  
     ***
-    AutoAugmentの改良。
+    [AutoAugment](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)の改良。
     ランダムな変換を組み合わせることで、探索空間を単純化し、探索にかかる計算量を大幅に削減した手法.
     ***
 - Keywords : `Data Augmentation`
