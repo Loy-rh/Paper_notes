@@ -4,9 +4,10 @@
 
 1. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
 2. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
-3. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
-4. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
-5. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
+3. [Randaugment: Practical Automated Data Augmentation With a Reduced Search Space](#randaugment-practical-automated-data-augmentation-with-a-reduced-search-space-cvpr2020)
+4. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
+5. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
+6. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
 
 ---
 
@@ -46,6 +47,19 @@
     1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
     ***
 - Keywords : `Mixing Augmentation`
+
+### Randaugment: Practical Automated Data Augmentation With a Reduced Search Space (CVPR2020)
+
+[[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.pdf)
+[[Code]](https://github.com/ildoonet/pytorch-randaugment)
+[[bibtex]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w40/Cubuk_Randaugment_Practical_Automated_Data_Augmentation_With_a_Reduced_Search_Space_CVPRW_2020_paper.html)
+
+- summary  
+    ***
+    AutoAugmentの改良。
+    ランダムな変換を組み合わせることで、探索空間を単純化し、探索にかかる計算量を大幅に削減した手法.
+    ***
+- Keywords : `Data Augmentation`
 
 ### AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)
 
