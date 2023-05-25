@@ -23,6 +23,17 @@
     ***
 - Keywords : `keyword`
 
+### Over-Training with Mixup May Hurt Generalization (ICLR2023)
+
+[[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
+[[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
+
+- summary  
+    ***
+    調査中
+    ***
+- Keywords : `MixUp` `Generalization` `Regularization`
+
 ### TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Suzuki_TeachAugment_Data_Augmentation_Optimization_Using_Teacher_Knowledge_CVPR_2022_paper.pdf)
