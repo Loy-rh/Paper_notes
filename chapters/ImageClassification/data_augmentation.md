@@ -11,18 +11,6 @@
 
 ---
 
-### Title (Conference or Journal)
-
-[[Paper]]()
-[[Code]]()
-[[bibtex]]()
-
-- <details><summary>summary</summary>  
-    ***
-    調査中
-    ***
-- Keywords : `keyword`
-
 ### Over-Training with Mixup May Hurt Generalization (ICLR2023)
 
 [[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
