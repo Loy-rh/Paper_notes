@@ -20,13 +20,12 @@
 
 <details><summary>Papers</summary>
 
-[//]: # (### Title &#40;Conference or Journal&#41;)
+### Title (Conference or Journal)
 
-[//]: # ()
-[//]: # ([[Paper]]&#40;&#41;)
+[[Paper]]()
 
-[//]: # ([[Code]]&#40;&#41;)
+[[Code]]()
 
-[//]: # ([[bibtex]]&#40;&#41;)
+[[bibtex]]()
 
 </details>
