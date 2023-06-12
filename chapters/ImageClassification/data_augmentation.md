@@ -29,9 +29,10 @@
 [[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
 
 - <details><summary>summary</summary>
-    ***
+  
+    ```
     調査中
-    ***
+    ```
   </details>
 - Keywords : `MixUp` `Generalization` `Regularization`
 
