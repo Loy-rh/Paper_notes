@@ -2,12 +2,13 @@
 
 ## Title List
 
-1. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
-2. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
-3. [Randaugment: Practical Automated Data Augmentation With a Reduced Search Space (CVPR2020)](#randaugment-practical-automated-data-augmentation-with-a-reduced-search-space-cvpr2020)
-4. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
-5. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
-6. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
+1. [Over-Training with Mixup May Hurt Generalization (ICLR2023)](#over-training-with-mixup-may-hurt-generalization-iclr2023)
+2. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
+3. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
+4. [Randaugment: Practical Automated Data Augmentation With a Reduced Search Space (CVPR2020)](#randaugment-practical-automated-data-augmentation-with-a-reduced-search-space-cvpr2020)
+5. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
+6. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
+7. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
 
 ---
 
