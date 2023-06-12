@@ -20,10 +20,18 @@
 
 <details><summary>Papers</summary>
 
-### Title (Conference or Journal)
+[//]: # (### Title &#40;Conference or Journal&#41;)
 
-[[Paper]]()
-[[Code]]()
-[[bibtex]]()
+[//]: # ()
+[//]: # ([[Paper]]&#40;&#41;)
+
+[//]: # ([[Code]]&#40;&#41;)
+
+[//]: # ([[bibtex]]&#40;&#41;)
+
+### Over-Training with Mixup May Hurt Generalization (ICLR2023)
+
+[[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
+[[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
 
 </details>

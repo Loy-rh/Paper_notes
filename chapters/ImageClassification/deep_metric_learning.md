@@ -6,15 +6,22 @@
 
 ---
 
-### Title (Conference or Journal)
+[//]: # (### Title &#40;Conference or Journal&#41;)
 
-[[Paper]]()
-[[Code]]()
-[[bibtex]]()
+[//]: # ()
+[//]: # ([[Paper]]&#40;&#41;)
 
-<details><summary>summary</summary><div>
+[//]: # ([[Code]]&#40;&#41;)
 
-- 調査中
-</div></details>
+[//]: # ([[bibtex]]&#40;&#41;)
 
-- Keywords : `keyword`
+[//]: # ()
+[//]: # (<details><summary>summary</summary><div>)
+
+[//]: # ()
+[//]: # (- 調査中)
+
+[//]: # (</div></details>)
+
+[//]: # ()
+[//]: # (- Keywords : `keyword`)
