@@ -21,9 +21,9 @@
 [[bibtex]]()
 
 - summary  
-    ***
-    調査中
-    ***
+  ```
+  調査中
+  ```
 - Keywords : `keyword`
 
 ### Selective-Supervised Contrastive Learning with Noisy Labels (CVPR2022)
