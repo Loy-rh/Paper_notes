@@ -33,7 +33,8 @@
 
 [//]: # (    )
 
-[//]: # (  </div></details>  )
+[//]: # (  </div></details>  
+  )
 
 [//]: # (  ```)
 
@@ -50,11 +51,9 @@
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.html)
 
 <details><summary>summary</summary><div>
-  
-    
     調査中
-    
-  </div></details>  
+</div></details>  
+
 - Keywords : `contrastive learning`, `semi-supervised learning`
 
 ### Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels (CVPR2022)
@@ -64,11 +63,9 @@
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Scalable_Penalized_Regression_for_Noise_Detection_in_Learning_With_Noisy_CVPR_2022_paper.html)
 
 <details><summary>summary</summary><div>
-  
-    
     調査中
-    
-  </div></details> 
+</div></details>  
+ 
 - Keywords : 
 
 ### PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction (CVPR2022)
@@ -78,11 +75,9 @@
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.html)
 
 <details><summary>summary</summary><div>
-  
-    
     調査中
-    
-  </div></details>
+</div></details>  
+
 - Keywords : 
 
 ### Learning With Neighbor Consistency for Noisy Labels (CVPR2022)
@@ -92,7 +87,8 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords : 
 
 ### DivideMix: Learning with Noisy Labels as Semi-supervised Learning (ICLR2020)
@@ -103,7 +99,8 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords : 
 
 ### Early-Learning Regularization Prevents Memorization of Noisy Labels (NeurIPS2020)
@@ -114,7 +111,8 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords :  
 
 ### How does Disagreement Help Generalization against Label Corruption? (ICML2019)
@@ -125,7 +123,8 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords :
 
 ### Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)
@@ -136,7 +135,8 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords : 
 
 ### A Closer Look at Memorization in Deep Networks (ICML2017)
@@ -146,6 +146,7 @@
 
 <details><summary>summary</summary><div>
     調査中
-</div></details>
+</div></details>  
+
 - Keywords :
 
