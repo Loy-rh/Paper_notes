@@ -29,7 +29,8 @@
 [//]: # (  )
 [//]: # (    )
 
-[//]: # (    調査中)
+[//]: # (- 調査中
+)
 
 [//]: # (    )
 
@@ -52,7 +53,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -66,7 +68,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
  
@@ -80,7 +83,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -93,7 +97,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -107,7 +112,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -121,7 +127,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -135,7 +142,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -149,7 +157,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
@@ -162,7 +171,8 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
+
 
 </div></details>  
 
