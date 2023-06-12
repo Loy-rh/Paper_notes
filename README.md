@@ -17,3 +17,16 @@
 - [Learning with Noisy Labels](https://github.com/Loy-rh/paper_notes/blob/main/chapters/SemanticSegmentation/learning_with_noisy_labels.md)
 
 ## Currently Reading
+
+<details><summary>Papers</summary>
+
+[//]: # (### Title &#40;Conference or Journal&#41;)
+
+[//]: # ()
+[//]: # ([[Paper]]&#40;&#41;)
+
+[//]: # ([[Code]]&#40;&#41;)
+
+[//]: # ([[bibtex]]&#40;&#41;)
+
+</details>
