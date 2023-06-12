@@ -18,9 +18,9 @@
 [[bibtex]]()
 
 - <details><summary>summary</summary>  
-    ```
+    ***
     調査中
-    ```
+    ***
 - Keywords : `keyword`
 
 ### Over-Training with Mixup May Hurt Generalization (ICLR2023)
@@ -30,9 +30,9 @@
 
 - <details><summary>summary</summary>
   
-    ```
+    ***
     調査中
-    ```
+    ***
   </details>
 - Keywords : `MixUp` `Generalization` `Regularization`
 
@@ -44,9 +44,9 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     TeacherネットワークとStudentネットワークを用意し、Teacherネットワークには識別可能であるが、Studentネットワークに対しては誤識別させるようなデータ拡張を探索し、訓練する教師ありデータ拡張手法。
-    ```
+    ***
   </details>
 - Keywords : `Adversarial Training` `Data Augmentation`
 
@@ -58,10 +58,10 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     [CutMix](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)の改良。
     1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
-    ```
+    ***
   </details>
 - Keywords : `Mixing Augmentation`
 
@@ -73,10 +73,10 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     [AutoAugment](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)の改良。
     ランダムな変換を組み合わせることで、探索空間を単純化し、探索にかかる計算量を大幅に削減した手法.
-    ```
+    ***
   </details>
 - Keywords : `Data Augmentation`
 
@@ -88,9 +88,9 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     事前に定義された画像変換が与えられた場合に、最適な拡張方針の探索を自動化した手法。
-    ```
+    ***
   </details>
 - Keywords : `Data Augmentation`
 
@@ -102,11 +102,11 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     [mixup](#mixup-beyond-empirical-risk-minimization-iclr2018)とCutoutの組み合わせ。
     2つの画像とラベルのペアに対して一方の画像の切り取られた領域を、もう一方の画像に重ね合わせる混合データ増強手法。
     また、ラベルも同様に凸線形補間によるデータ増強を行う。
-    ```
+    ***
   </details>
 - Keywords : `Mixing Augmentation`
 
@@ -118,8 +118,8 @@
 
 - <details><summary>summary</summary>  
   
-    ```
+    ***
     ベータ分布から得られた確率を重みとして、ランダムに選ばれたデータとラベルのペアに対して凸線形補間によるデータ増強を行い画像を結合する。
-    ```
+    ***
   </details>
 - Keywords : `Mixing Augmentation`
