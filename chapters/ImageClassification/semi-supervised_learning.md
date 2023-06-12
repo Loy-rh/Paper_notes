@@ -17,10 +17,12 @@
 [[Code]]()
 [[bibtex]]()
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `keyword`
 
 ### Debiased Learning From Naturally Imbalanced Pseudo-Labels (CVPR2022)
@@ -29,10 +31,12 @@
 [[Code]](https://github.com/frank-xwang/debiased-pseudo-labeling)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Debiased_Learning_From_Naturally_Imbalanced_Pseudo-Labels_CVPR_2022_paper.html)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details> 
+
 - Keywords : `keyword`
 
 ### SimMatch: Semi-Supervised Learning With Similarity Matching (CVPR2022)
@@ -41,10 +45,12 @@
 [[Code]](https://github.com/mingkai-zheng/simmatch)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.html)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `Contrastive Learning`
 
 ### Debiased Self-Training for Semi-Supervised Learning (NeurIPS2022)
@@ -53,10 +59,12 @@
 [[Code]](https://github.com/thuml/Debiased-Self-Training)
 [[bibtex]](https://openreview.net/forum?id=NI7moUOKtc)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `Self-training` `Debiased pseudo-labeling`
 
 ### FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (CVPR2020)
@@ -65,10 +73,12 @@
 [[Code]](https://github.com/google-research/fixmatch)
 [[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2020-fixmatch-simplifying-semi-supervised-learning-with-consistency-and-confidence-Bibtex.bib)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `keyword`
 
 ### ReMixMatch: Semi-Supervised Learning with Distribution Matching and Augmentation Anchoring (ICLR2020)
@@ -77,10 +87,12 @@
 [[Code]](https://github.com/google-research/remixmatch)
 [[bibtex]](https://openreview.net/forum?id=HklkeR4KPB)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `keyword`
 
 ### MixMatch: A Holistic Approach to Semi-Supervised Learning (NeurIPS2019)
@@ -89,8 +101,10 @@
 [[Code]](https://github.com/google-research/mixmatch)
 [[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2019-mixmatch-a-holistic-approach-to-semi-supervised-learning-Bibtex.bib)
 
-- summary  
-    ***
-    調査中
-    ***
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
 - Keywords : `keyword`
