@@ -24,7 +24,7 @@
 [//]: # ([[bibtex]]&#40;&#41;)
 
 [//]: # ()
-[//]: # (- <details><summary>summary</summary>)
+[//]: # (- <details><summary>summary</summary><div>)
 
 [//]: # (  )
 [//]: # (    ***)
@@ -33,7 +33,7 @@
 
 [//]: # (    ***)
 
-[//]: # (  </details>  )
+[//]: # (  </div></details>  )
 
 [//]: # (  ```)
 
@@ -49,12 +49,12 @@
 [[Code]](https://github.com/ShikunLi/Sel-CL)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.html)
 
-- <details><summary>summary</summary>
+<details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>  
+  </div></details>  
 - Keywords : `contrastive learning`, `semi-supervised learning`
 
 ### Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels (CVPR2022)
@@ -63,12 +63,12 @@
 [[Code]](https://github.com/Yikai-Wang/SPR-LNL)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Scalable_Penalized_Regression_for_Noise_Detection_in_Learning_With_Noisy_CVPR_2022_paper.html)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details> 
+  </div></details> 
 - Keywords : 
 
 ### PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction (CVPR2022)
@@ -77,12 +77,12 @@
 [[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/PNP)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.html)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords : 
 
 ### Learning With Neighbor Consistency for Noisy Labels (CVPR2022)
@@ -90,12 +90,12 @@
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Iscen_Learning_With_Neighbor_Consistency_for_Noisy_Labels_CVPR_2022_paper.pdf)
 [[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Iscen_Learning_With_Neighbor_Consistency_for_Noisy_Labels_CVPR_2022_paper.html)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords : 
 
 ### DivideMix: Learning with Noisy Labels as Semi-supervised Learning (ICLR2020)
@@ -104,12 +104,12 @@
 [[Code]](https://github.com/LiJunnan1992/DivideMix)
 [[bibtex]](https://openreview.net/forum?id=HJgExaVtwr)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords : 
 
 ### Early-Learning Regularization Prevents Memorization of Noisy Labels (NeurIPS2020)
@@ -118,12 +118,12 @@
 [[Code]](https://github.com/shengliu66/ELR)
 [[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2020-early-learning-regularization-prevents-memorization-of-noisy-labels-Bibtex.bib)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords :  
 
 ### How does Disagreement Help Generalization against Label Corruption? (ICML2019)
@@ -132,12 +132,12 @@
 [[Code]](https://github.com/xingruiyu/coteaching_plus)
 [[bibtex]](https://proceedings.mlr.press/v97/yu19b.html)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords :
 
 ### Co-teaching: Robust training of deep neural networks with extremely noisy labels (NeurIPS2018)
@@ -146,12 +146,12 @@
 [[Code]](https://github.com/bhanML/Co-teaching)
 [[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2018-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels-Bibtex.bib)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords : 
 
 ### A Closer Look at Memorization in Deep Networks (ICML2017)
@@ -159,11 +159,11 @@
 [[Paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf)
 [[bibtex]](https://proceedings.mlr.press/v70/arpit17a)
 
-- <details><summary>summary</summary>
+- <details><summary>summary</summary><div>
   
     ***
     調査中
     ***
-  </details>
+  </div></details>
 - Keywords :
 
