@@ -28,10 +28,11 @@
 [[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
 [[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
 
-- summary  
+- <details><summary>summary</summary>
     ***
     調査中
     ***
+  </details>
 - Keywords : `MixUp` `Generalization` `Regularization`
 
 ### TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)
