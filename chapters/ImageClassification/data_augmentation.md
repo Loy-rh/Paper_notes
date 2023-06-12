@@ -18,7 +18,7 @@
 
 <details><summary>summary</summary><div>
 
-    調査中
+- 調査中
 
 </div></details>
 
@@ -32,7 +32,7 @@
 
 <details><summary>summary</summary><div>
   
-    TeacherネットワークとStudentネットワークを用意し、Teacherネットワークには識別可能であるが、Studentネットワークに対しては誤識別させるようなデータ拡張を探索し、訓練する教師ありデータ拡張手法。
+- TeacherネットワークとStudentネットワークを用意し、Teacherネットワークには識別可能であるが、Studentネットワークに対しては誤識別させるようなデータ拡張を探索し、訓練する教師ありデータ拡張手法。
 
 </div></details>
 
@@ -46,7 +46,7 @@
 
 <details><summary>summary</summary><div>
   
-    [CutMix](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)の改良。
+- [CutMix](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)の改良。
     1つの画像に対してピクセルレベルの重みマスクを生成し、識別に影響の大きいピクセルをペア画像に強く結合することで、より効果的な混合データ増強を行う手法。
 
 </div></details>
@@ -61,7 +61,7 @@
 
 <details><summary>summary</summary><div>
   
-    [AutoAugment](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)の改良。
+- [AutoAugment](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)の改良。
     ランダムな変換を組み合わせることで、探索空間を単純化し、探索にかかる計算量を大幅に削減した手法.
 
 </div></details>
@@ -76,7 +76,7 @@
 
 <details><summary>summary</summary><div>
   
-    事前に定義された画像変換が与えられた場合に、最適な拡張方針の探索を自動化した手法。
+- 事前に定義された画像変換が与えられた場合に、最適な拡張方針の探索を自動化した手法。
 
 </div></details>
 
@@ -90,7 +90,7 @@
 
 <details><summary>summary</summary><div>
   
-    [mixup](#mixup-beyond-empirical-risk-minimization-iclr2018)とCutoutの組み合わせ。
+- [mixup](#mixup-beyond-empirical-risk-minimization-iclr2018)とCutoutの組み合わせ。
     2つの画像とラベルのペアに対して一方の画像の切り取られた領域を、もう一方の画像に重ね合わせる混合データ増強手法。
     また、ラベルも同様に凸線形補間によるデータ増強を行う。
 
@@ -106,7 +106,7 @@
 
 <details><summary>summary</summary><div>
 
-    ベータ分布から得られた確率を重みとして、ランダムに選ばれたデータとラベルのペアに対して凸線形補間によるデータ増強を行い画像を結合する。
+- ベータ分布から得られた確率を重みとして、ランダムに選ばれたデータとラベルのペアに対して凸線形補間によるデータ増強を行い画像を結合する。
 
 </div></details>
 
