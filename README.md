@@ -23,9 +23,7 @@
 ### Title (Conference or Journal)
 
 [[Paper]]()
-
 [[Code]]()
-
 [[bibtex]]()
 
 </details>
