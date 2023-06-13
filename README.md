@@ -30,8 +30,10 @@
 [//]: # ([[bibtex]]&#40;&#41;)
 
 ### Over-Training with Mixup May Hurt Generalization (ICLR2023)
-
 [[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
 [[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
 
+### Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance With Expanded Views (CVPR2022)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.html)
 </details>
