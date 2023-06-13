@@ -2,10 +2,10 @@
 
 ## Title List
 
-1. [Unsupervised Hyperbolic Metric Learning (CVPR2021)](#unsupervised-hyperbolic-metric-learning-cvpr2021)
-2. [Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS2020)](#big-self-supervised-models-are-strong-semi-supervised-learners-neurips-2020)
-3. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
-4. 
+1. 
+2. [Unsupervised Hyperbolic Metric Learning (CVPR2021)](#unsupervised-hyperbolic-metric-learning-cvpr2021)
+3. [Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS2020)](#big-self-supervised-models-are-strong-semi-supervised-learners-neurips-2020)
+4. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
 
 ---
 
@@ -21,6 +21,19 @@
 [//]: # (</div></details>)
 [//]: # ()
 [//]: # (- Keywords : `keyword`)
+
+### Contrastive Learning with Hard Negative Samples (ICLR2021)
+[[Paper]](https://openreview.net/pdf?id=CR1XOQ0UTh-)
+[[Code]](https://github.com/joshr17/HCL)
+[[bibtex]](https://openreview.net/forum?id=CR1XOQ0UTh-)
+
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
+- Keywords : `Contrastive Learning` `Hard sample mining`
 
 ### Unsupervised Hyperbolic Metric Learning (CVPR2021)
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf)
