@@ -15,6 +15,7 @@
 
 ### Semantic Segmentation
 - [Learning with Noisy Labels](https://github.com/Loy-rh/paper_notes/blob/main/chapters/SemanticSegmentation/learning_with_noisy_labels.md)
+- [Semi-supervised Learning](https://github.com/Loy-rh/Paper_notes/blob/main/chapters/SemanticSegmentation/semi_supervised_learning.md)
 
 ### Others
 
