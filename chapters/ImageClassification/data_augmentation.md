@@ -3,27 +3,15 @@
 ## Title List
 
 1. [Over-Training with Mixup May Hurt Generalization (ICLR2023)](#over-training-with-mixup-may-hurt-generalization-iclr2023)
-2. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
-3. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
-4. [Randaugment: Practical Automated Data Augmentation With a Reduced Search Space (CVPR2020)](#randaugment-practical-automated-data-augmentation-with-a-reduced-search-space-cvpr2020)
-5. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
-6. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
-7. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
+2. [Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance With Expanded Views](#rethinking-the-augmentation-module-in-contrastive-learning-learning-hierarchical-augmentation-invariance-with-expanded-views-cvpr2022)
+3. [TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)](#teachaugment-data-augmentation-optimization-using-teacher-knowledge-cvpr2022)
+4. [SuperMix: Supervising the Mixing Data Augmentation (CVPR2021)](#supermix-supervising-the-mixing-data-augmentation-cvpr2021)
+5. [Randaugment: Practical Automated Data Augmentation With a Reduced Search Space (CVPR2020)](#randaugment-practical-automated-data-augmentation-with-a-reduced-search-space-cvpr2020)
+6. [AutoAugment: Learning Augmentation Strategies From Data (CVPR2019)](#autoaugment-learning-augmentation-strategies-from-data-cvpr2019)
+7. [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (ICCV2019)](#cutmix-regularization-strategy-to-train-strong-classifiers-with-localizable-features-iccv2019)
+8. [mixup: Beyond Empirical Risk Minimization (ICLR2018)](#mixup-beyond-empirical-risk-minimization-iclr2018)
 
 ---
-
-### Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance With Expanded Views (CVPR2022)
-
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf)
-[[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.html)
-
-<details><summary>summary</summary><div>
-
-- 調査中
-
-</div></details>
-
-- Keywords : `Contrastive Learning` `Data Augmentation`
 
 ### Over-Training with Mixup May Hurt Generalization (ICLR2023)
 
@@ -37,6 +25,19 @@
 </div></details>
 
 - Keywords : `MixUp` `Generalization` `Regularization`
+
+### Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance With Expanded Views (CVPR2022)
+
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.html)
+
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
+- Keywords : `Contrastive Learning` `Data Augmentation`
 
 ### TeachAugment: Data Augmentation Optimization Using Teacher Knowledge (CVPR2022)
 
