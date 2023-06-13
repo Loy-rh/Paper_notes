@@ -2,8 +2,9 @@
 
 ## Title List
 
-1. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
-2. 
+1. [Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS2020)](#big-self-supervised-models-are-strong-semi-supervised-learners-neurips-2020)
+2. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
+3. 
 
 ---
 
@@ -20,6 +21,19 @@
 [//]: # ()
 [//]: # (- Keywords : `keyword`)
 
+### Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS 2020)
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fcbc95ccdd551da181207c0c1400c655-Paper.pdf)
+[[Code]](https://github.com/google-research/simclr)
+[[bibtex]](https://github.com/Loy-rh/paper_notes/blob/main/bib/NeurIPS-2020-big-self-supervised-models-are-strong-semi-supervised-learners-Bibtex.bib)
+
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
+- Keywords : `keyword`
+
 ### A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)
 [[Paper]](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)
 [[Code]](https://github.com/google-research/simclr)
@@ -34,15 +48,3 @@
 
 - Keywords : `Contrastive Learning`
 
-### Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS 2020)
-[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fcbc95ccdd551da181207c0c1400c655-Paper.pdf)
-[[Code]]()
-[[bibtex]]()
-
-<details><summary>summary</summary><div>
-
-- 調査中
-
-</div></details>
-
-- Keywords : `keyword`
