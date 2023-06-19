@@ -23,6 +23,19 @@
 [//]: # ()
 [//]: # (- Keywords : `keyword`)
 
+### Exploring Simple Siamese Representation Learning (CVPR2021)
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
+[[Code]](https://github.com/facebookresearch/simsiam)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)
+
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
+- Keywords : `keyword`
+
 ### Contrastive Learning with Hard Negative Samples (ICLR2021)
 [[Paper]](https://openreview.net/pdf?id=CR1XOQ0UTh-)
 [[Code]](https://github.com/joshr17/HCL)
