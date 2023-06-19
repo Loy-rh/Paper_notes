@@ -49,11 +49,11 @@
 
 ### Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning (NeurIPS2020)
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf)
-[[bibtex]]()
+[[bibtex]](https://github.com/Loy-rh/Paper_notes/blob/main/bib/NeurIPS-2020-bootstrap-your-own-latent-a-new-approach-to-self-supervised-learning-Bibtex.bib)
 
 <details><summary>summary</summary><div>
 
-- 調査中
+- 低速移動平均ネットワークを導入し, 負のサンプルを用いずに効果的な対照学習を可能にした.
 
 </div></details>
 
