@@ -2,11 +2,12 @@
 
 ## Title List
 
-1. [Contrastive Learning with Hard Negative Samples (ICLR2021)](#contrastive-learning-with-hard-negative-samples-iclr2021)
-2. [Unsupervised Hyperbolic Metric Learning (CVPR2021)](#unsupervised-hyperbolic-metric-learning-cvpr2021)
-3. [Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning](#bootstrap-your-own-latent---a-new-approach-to-self-supervised-learning-neurips2020)
-4. [Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS2020)](#big-self-supervised-models-are-strong-semi-supervised-learners-neurips-2020)
-5. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
+1. [Exploring Simple Siamese Representation Learning (CVPR2021)](#exploring-simple-siamese-representation-learning-cvpr2021)
+2. [Contrastive Learning with Hard Negative Samples (ICLR2021)](#contrastive-learning-with-hard-negative-samples-iclr2021)
+3. [Unsupervised Hyperbolic Metric Learning (CVPR2021)](#unsupervised-hyperbolic-metric-learning-cvpr2021)
+4. [Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning (2020)](#bootstrap-your-own-latent---a-new-approach-to-self-supervised-learning-neurips2020)
+5. [Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS2020)](#big-self-supervised-models-are-strong-semi-supervised-learners-neurips-2020)
+6. [A Simple Framework for Contrastive Learning of Visual Representations (ICML2020)](#a-simple-framework-for-contrastive-learning-of-visual-representations-icml2020)
 
 ---
 
