@@ -47,6 +47,19 @@
 
 - Keywords : `keyword`
 
+### Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning (NeurIPS2020)
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf)
+[[bibtex]]()
+
+<details><summary>summary</summary><div>
+
+- 調査中
+
+</div></details>
+
+- Keywords : `keyword`
+
+
 ### Big Self-Supervised Models are Strong Semi-Supervised Learners (NeurIPS 2020)
 [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fcbc95ccdd551da181207c0c1400c655-Paper.pdf)
 [[Code]](https://github.com/google-research/simclr)
