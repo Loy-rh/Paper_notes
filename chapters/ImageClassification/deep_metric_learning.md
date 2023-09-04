@@ -24,6 +24,21 @@
 [//]: # ()
 [//]: # (- Keywords : `keyword`)
 
+### Rethinking the Augmentation Module in Contrastive Learning: Learning Hierarchical Augmentation Invariance With Expanded Views (CVPR2022)
+
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.pdf) 
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Rethinking_the_Augmentation_Module_in_Contrastive_Learning_Learning_Hierarchical_Augmentation_CVPR_2022_paper.html)
+
+<details><summary>summary</summary><div>
+
+- ResNetの各ブロックから特徴量を取り出し，対照学習を行うことで拡張普遍性の影響範囲を制限
+- 拡張の種類を自由に選択可能にした
+- 拡張パラメータを埋め込みベクトルに変換し，学習に組み込むことで拡張の強さを考慮可能にした
+
+</div></details>
+
+- Keywords: `Contrastive Learning` `Data Augmentation`
+
 ### Exploring Simple Siamese Representation Learning (CVPR2021)
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
 [[Code]](https://github.com/facebookresearch/simsiam)
