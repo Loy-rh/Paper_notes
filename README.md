@@ -32,6 +32,28 @@
 
 [//]: # ([[bibtex]]&#40;&#41;)
 
+### Learning With Noisy Labels via Self-Supervised Adversarial Noisy Masking
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Learning_With_Noisy_Labels_via_Self-Supervised_Adversarial_Noisy_Masking_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/yuanpengtu/SANM)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Learning_With_Noisy_Labels_via_Self-Supervised_Adversarial_Noisy_Masking_CVPR_2023_paper.html)
+
+### Learning From Noisy Labels With Decoupled Meta Label Purifier
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Learning_From_Noisy_Labels_With_Decoupled_Meta_Label_Purifier_CVPR_2023_paper.pdf)
+[[arXiv]](http://arxiv.org/abs/2302.06810)
+[[Code]](https://github.com/yuanpengtu/DMLP)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Learning_From_Noisy_Labels_With_Decoupled_Meta_Label_Purifier_CVPR_2023_paper.html)
+
+### DISC: Learning From Noisy Labels via Dynamic Instance-Specific Selection and Correction
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/JackYFL/DISC)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.html)
+
+### Twin Contrastive Learning With Noisy Labels
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Twin_Contrastive_Learning_With_Noisy_Labels_CVPR_2023_paper.pdf)
+[[Code]](https://github.com/Hzzone/TCL)
+[[arXiv]](http://arxiv.org/abs/2303.06930)
+[[bibtex]](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Twin_Contrastive_Learning_With_Noisy_Labels_CVPR_2023_paper.html)
+
 ### Over-Training with Mixup May Hurt Generalization (ICLR2023)
 [[Paper]](https://openreview.net/pdf?id=JmkjrlVE-DG)
 [[bibtex]](https://openreview.net/forum?id=JmkjrlVE-DG#)
